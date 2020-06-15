@@ -1,2 +1,0 @@
-# industrialisation
-Created with CodeSandbox
