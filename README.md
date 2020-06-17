@@ -22,3 +22,8 @@ $ ng serve --open
 ```
 
 Then access the application in your browser at the given URL (<http://localhost:4200> by default).
+
+## Indices 
+
+* Nom de code : `IT-Akademy-Challenge`
+* Hébergé chez un concurrent ...
